@@ -1,6 +1,6 @@
 ## Scalingo Deploy
 
-[![Deploy on Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://my.scalingo.com/deploy?source=https://github.com/faallendx/Finedx#master)
+[![Deploy on Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://my.scalingo.com/deploy?source=https://github.com/faallendx/finedx#master)
 
 
 # CLONE BOT
