@@ -2,6 +2,7 @@
 
 [![Deploy on Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://my.scalingo.com/deploy?source=https://github.com/faallendx/finedx#master)
 
+https://dashboard.scalingo.com/create/app?source=https://github.com/faallendx/Finedx
 
 # CLONE BOT
 ### This repo is lite version of <a href="https://github.com/anasty17/mirror-leech-telegram-bot">MLTB</a>
