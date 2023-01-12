@@ -24,4 +24,4 @@ RUN playwright install-deps
 
 COPY . .
 
-CMD ["bash", "start.sh"]
+CMD ["bash", "run.sh"]
